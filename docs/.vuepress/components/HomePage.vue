@@ -20,8 +20,8 @@
     <section id="profile" class="section-grid" aria-label="Profile information">
       <article class="info-card">
         <p class="card-label">Interests</p>
-        <h2>Geomatics and Software</h2>
-        <p>Interested in GIS, remote sensing, geospatial data processing, and building clear tools for technical workflows.</p>
+        <h2> </h2>
+        <p>Interested in .</p>
       </article>
     </section>
   </main>
