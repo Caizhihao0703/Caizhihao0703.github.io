@@ -5,11 +5,12 @@
         <p class="eyebrow">Personal Homepage</p>
         <h1 id="intro-title">Cai Zhihao</h1>
         <p class="lead">
-          I build, learn, and document software projects with a focus on clear structure and practical results.
+          I am a second-year Master's student in Geomatics at ETH Zürich, interested in geospatial data,
+          mapping technologies, and practical software tools for spatial analysis.
         </p>
         <div class="actions">
           <a class="primary-link" href="https://github.com/Caizhihao0703">GitHub</a>
-          <a class="secondary-link" href="#projects">Projects</a>
+          <a class="secondary-link" href="#profile">Profile</a>
         </div>
       </div>
       <div class="identity-mark" aria-hidden="true">
@@ -17,23 +18,23 @@
       </div>
     </section>
 
-    <section id="projects" class="section-grid" aria-label="Projects and profile">
+    <section id="profile" class="section-grid" aria-label="Profile information">
       <article class="info-card">
-        <p class="card-label">Focus</p>
-        <h2>Software Engineering</h2>
-        <p>Building small, reliable tools and web experiences while improving engineering fundamentals.</p>
+        <p class="card-label">Education</p>
+        <h2>ETH Zürich</h2>
+        <p>Second-year Master's student in Geomatics, working across spatial data, positioning, mapping, and analysis.</p>
       </article>
 
       <article class="info-card">
-        <p class="card-label">Projects</p>
-        <h2>GitHub Portfolio</h2>
-        <p>Use this space to highlight selected repositories, course work, research, or personal experiments.</p>
+        <p class="card-label">Interests</p>
+        <h2>Geomatics and Software</h2>
+        <p>Interested in GIS, remote sensing, geospatial data processing, and building clear tools for technical workflows.</p>
       </article>
 
       <article class="info-card">
-        <p class="card-label">Contact</p>
-        <h2>Online Profile</h2>
-        <p>Find my work on GitHub and update this section later with email, LinkedIn, or other public links.</p>
+        <p class="card-label">Current</p>
+        <h2>Learning and Building</h2>
+        <p>Using this homepage to collect selected projects, notes, and academic work as my portfolio grows.</p>
       </article>
     </section>
   </main>
